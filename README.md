@@ -14,8 +14,6 @@ myBookmarkManager is a lightweight and easy-to-use bookmark manager crafted with
 ## Demo URL 
 - click here for demo  [myBookmarkManager](https://simhadri07.github.io/myBookmarkManager/).
 
-  This site was built using [GitHub Pages](https://pages.github.com/).
-
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
