@@ -8,7 +8,7 @@ myBookmarkManager is a lightweight and easy-to-use bookmark manager crafted with
 - **Quick Search:** Find bookmarks instantly with a built-in search function. [will be added soon.]
 - **Cross-Browser Compatibility:** Access your bookmarks from any modern web browser on any device.
 - **Responsive Design:** Enjoy a seamless browsing experience on desktops, tablets, and smartphones.
-- **Customizable Styling:** Personalize your bookmarks with customizable themes and styles.
+- **Customizable Styling:** Personalize your bookmarks with customizable themes and styles.[will be added soon.]
 - **Privacy-focused:** Your data is stored locally on your device, ensuring privacy and security.
 
   ## Demo URL - https://simhadri07.github.io/myBookmarkManager/
