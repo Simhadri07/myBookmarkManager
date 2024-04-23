@@ -15,10 +15,9 @@ myBookmarkManager is a lightweight and easy-to-use bookmark manager crafted with
 - **Frontend:** HTML, CSS, JavaScript
 
 ## Contributing
-Contributions are welcome! Whether you're a developer, designer, or enthusiast, feel free to contribute to the project by forking the repository, making changes, and submitting pull requests. Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
-
+Contributions are welcome! Whether you're a developer, designer, or enthusiast, feel free to contribute to the project by forking the repository, making changes, and submitting pull requests.
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Get Started
 To start using myBookmarkManager, simply clone the repository and open the `index.html` file in your preferred web browser. No server setup required – it's that simple!
