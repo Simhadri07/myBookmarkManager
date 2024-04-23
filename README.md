@@ -11,7 +11,8 @@ myBookmarkManager is a lightweight and easy-to-use bookmark manager crafted with
 - **Customizable Styling:** Personalize your bookmarks with customizable themes and styles.[will be added soon.]
 - **Privacy-focused:** Your data is stored locally on your device, ensuring privacy and security.
 
-  ## Demo URL **-** https://simhadri07.github.io/myBookmarkManager/
+## Demo URL
+- **URL : **https://simhadri07.github.io/myBookmarkManager/
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
