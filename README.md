@@ -5,7 +5,7 @@ myBookmarkManager is a lightweight and easy-to-use bookmark manager crafted with
 ## Key Features
 - **Intuitive Bookmarking:** Save bookmarks with a simple click using an intuitive interface.
 - **Effortless Organization:** Arrange bookmarks into categories for easy access and management.
-- **Quick Search:** Find bookmarks instantly with a built-in search function.
+- **Quick Search:** Find bookmarks instantly with a built-in search function. [will be added soon.]
 - **Cross-Browser Compatibility:** Access your bookmarks from any modern web browser on any device.
 - **Responsive Design:** Enjoy a seamless browsing experience on desktops, tablets, and smartphones.
 - **Customizable Styling:** Personalize your bookmarks with customizable themes and styles.
